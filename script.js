@@ -689,3 +689,4 @@
 
 // console.log(john.armor);
 // john.sayHello();
+
