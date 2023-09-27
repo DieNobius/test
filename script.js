@@ -787,3 +787,43 @@
 // console.log(c1, c2, c3);
 
 
+// let x = 5; alert( x++ );
+
+// [ ] + false - null + true
+// console.log(typeof([] + false - null + true));
+// console.log([] + false - null + true);
+
+// let y = 1;
+// let x = y = 2;
+// alert(x);
+
+// console.log([] + 1 + 2);
+
+// alert('1'[0]);
+
+// console.log(2 && 1 && null && 0 && undefined);
+// И запинается на лжи
+// ИЛИ запнинается на правде
+
+// console.log(!!(1 && 2) === (1 && 2));
+// console.log(typeof(!!(1 && 2)));
+// console.log(typeof((1 && 2)));
+
+// alert(null || 3 && 2 || 4)  // === 2
+// alert(null || 2 && 3 || 4) // === 3
+
+// const a = [1, 2, 3]
+// const b = [1, 2, 3]
+// console.log(a == b);
+
+// alert(+'Infinity')
+
+// console.log('Infinity');
+// console.log(typeof ('Infinity'));
+// console.log(+'Infinity');
+// console.log(typeof (+'Infinity'));
+
+// console.log('Ёжик' > 'яблоко');
+
+// console.log(0 || '' || 2 || undefined || true || false);
+
